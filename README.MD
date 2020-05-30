@@ -27,4 +27,4 @@ estudiantes de ingeniería de sistemas y computación, de la universidad del Nor
 
 ## Licencia 
 
-Este proyecto está bajo la Licencia Apache license 2.0. Mira el archivo [LICENSE.MD](https://github.com/fuentesDeveloper/La_Hormiga_de_Langton-Turtle-/blob/master/README.MD) para más detalles.
+Este proyecto está bajo la Licencia Apache license 2.0. Mira el archivo [LICENSE.MD](https://github.com/fuentesDeveloper/La_Hormiga_de_Langton-Turtle-/blob/master/LICENSE) para más detalles.
