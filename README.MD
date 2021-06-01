@@ -6,11 +6,32 @@ La hormiga de Langton es un una máquina de Turing bidimensional con un conjunto
 
 ## Reglas
 - Si la hormiga está en 90° un cuadrado negro, gira a la derecha y se mueve hacia adelante una unidad.   
--  Si la hormiga está en 90° un cuadrado blanco, gira a la izquierda y se mueve hacia adelante una unidad.
+- Si la hormiga está en 90° un cuadrado blanco, gira a la izquierda y se mueve hacia adelante una unidad.
 - Cuando la hormiga deja un cuadrado, invierte el color (Blanco y negro).
 
 ## Adiciones
 Puede ontener mas información en [Langton's Ant](https://mathworld.wolfram.com/LangtonsAnt.html).
+
+## Uso
+Usted puede usar este proyecto localmente clonando este repositorio.
+
+### Revisiquitos previos
+
+- [Python](https://www.python.org/)
+
+### Instalación
+
+1. Clone el repositorio:
+   ```
+   https://github.com/Euphorichuman/Langtons-Ant.git
+   ```
+
+2. Dirijase a la carpeta rapiz del proyecto desde su termianl o consola.
+
+3. Ejecute el archivo python:
+   ```
+   py/python Langton’s_Ant.py
+   ```
 
 ## Contribuciones
 Todas las **Pull Requests** son bienvenidas. Para cambios importantes, por favor abra un problema primero para discutir lo que le gustaría cambiar.
@@ -18,13 +39,11 @@ Todas las **Pull Requests** son bienvenidas. Para cambios importantes, por favor
 Asegúrese de actualizar las pruebas según corresponda.
 
 ## Autores
-Este bot fue creado por: 
-- Martin Fuentes - [fuentesDeveloper](https://github.com/fuentesDeveloper)
-- Sergio Mancilla - [SergioMancilla](https://github.com/SergioMancilla)
-- Khalet Navarro - [Khaletn](https://github.com/Khaletn)
-
-estudiantes de ingeniería de sistemas y computación, de la universidad del Norte, para la materia Estructuras Discretas impartida por el profesor Alfonso Mancilla.
+Este proyecto fue implementado por: 
+- [Martin Fuentes](https://github.com/fuentesDeveloper)
+- [Sergio Mancilla](https://github.com/sdmancilla)
+- [Khalet Navarro](https://github.com/Khaletn)
 
 ## Licencia 
 
-Este proyecto está bajo la Licencia Apache license 2.0. Mira el archivo [LICENSE.MD](https://github.com/fuentesDeveloper/La_Hormiga_de_Langton-Turtle-/blob/master/LICENSE) para más detalles.
+Este proyecto está bajo la Licencia Apache license 2.0. Mira el archivo [LICENSE.MD](https://github.com/Euphorichuman/Langtons-Ant/blob/master/README.MD) para más detalles.
