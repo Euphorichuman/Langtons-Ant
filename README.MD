@@ -15,7 +15,7 @@ Puede ontener mas información en [Langton's Ant](https://mathworld.wolfram.com/
 ## Uso
 Usted puede usar este proyecto localmente clonando este repositorio.
 
-### Revisiquitos previos
+### Requisitos previos
 
 - [Python](https://www.python.org/)
 
