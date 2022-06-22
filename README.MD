@@ -41,8 +41,6 @@ Asegúrese de actualizar las pruebas según corresponda.
 ## Autores
 Este proyecto fue implementado por: 
 - [Martin Fuentes](https://github.com/Euphorichuman)
-- [Sergio Mancilla](https://github.com/sdmancilla)
-- [Khalet Navarro](https://github.com/Khaletn)
 
 ## Licencia 
 
